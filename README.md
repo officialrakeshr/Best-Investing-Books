@@ -44,7 +44,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(25).pdf" style="text-decoration:none;">Principles: Life and Work </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/inv(26).pdf" style="text-decoration:none;">The Little Book That Still Beats The Market -2010 </a></b></li>
 
 
 
